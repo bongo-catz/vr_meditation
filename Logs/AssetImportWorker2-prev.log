@@ -1,0 +1,336 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 15776 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/ellie/Downloads/[Sketch] Level Design Tutorial - Forest 2/[Sketch] Level Design Tutorial - Forest
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+53134
+Successfully changed project path to: C:/Users/ellie/Downloads/[Sketch] Level Design Tutorial - Forest 2/[Sketch] Level Design Tutorial - Forest
+C:/Users/ellie/Downloads/[Sketch] Level Design Tutorial - Forest 2/[Sketch] Level Design Tutorial - Forest
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4088] Host "[IP] 10.203.39.20 [Port] 0 [Flags] 2 [Guid] 1726876970 [EditorId] 1726876970 [Version] 1048832 [Id] WindowsEditor(7,dellie) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4088] Host "[IP] 10.203.39.20 [Port] 0 [Flags] 2 [Guid] 1726876970 [EditorId] 1726876970 [Version] 1048832 [Id] WindowsEditor(7,dellie) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 162.67 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.70 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ellie/Downloads/[Sketch] Level Design Tutorial - Forest 2/[Sketch] Level Design Tutorial - Forest/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1640
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.009211 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 363 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 123.45 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1177ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (952ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (123ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (730ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (473ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (124ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011968 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 123.48 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Package Manager log level set to [2]
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.82.0
+Mono: successfully reloaded assembly
+- Completed reload, in 13.349 seconds
+Domain Reload Profiling:
+	ReloadAssembly (13349ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (13029ms)
+			LoadAssemblies (9883ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (2694ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (124ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (1265ms)
+				ProcessInitializeOnLoadMethodAttributes (1140ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 5481 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 123 unused Assets / (1.4 MB). Loaded Objects now: 5891.
+Memory consumption went from 258.7 MB to 257.3 MB.
+Total: 9.908800 ms (FindLiveObjects: 0.589100 ms CreateObjectMapping: 0.252800 ms MarkObjects: 8.321300 ms  DeleteObjects: 0.743700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 78482.600979 seconds.
+  path: Assets/#Follow Along Tutorial/Follow Along Tutorial.unity
+  artifactKey: Guid(1a3353b01c3d2644e95b8a98fe48d318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#Follow Along Tutorial/Follow Along Tutorial.unity using Guid(1a3353b01c3d2644e95b8a98fe48d318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0aa8dd6d4a47b5e3af27ef646e7e65') in 0.020291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 138.447918 seconds.
+  path: Assets/Oculus/Spatializer/scenes/sounds/360 Workstation Ambisonic Panning AmbiX.wav
+  artifactKey: Guid(1340d7fb0cd1bfb4caa3b3270cb2ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/sounds/360 Workstation Ambisonic Panning AmbiX.wav using Guid(1340d7fb0cd1bfb4caa3b3270cb2ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b2440ad15b7b7092a62fbe93fad3c0') in 0.189132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Nature Sound FX/Avalanche/Avalanche (4).wav
+  artifactKey: Guid(0d934fddc04d1bf4685dd16726e1e86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Avalanche/Avalanche (4).wav using Guid(0d934fddc04d1bf4685dd16726e1e86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4380ca07d50bdeec454e4a9a0567b20') in 0.013717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Nature Sound FX/Avalanche/Avalanche (2).wav
+  artifactKey: Guid(b6136e63a38004a4688703f11b0c1944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Avalanche/Avalanche (2).wav using Guid(b6136e63a38004a4688703f11b0c1944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867ea80ad3becc5587faa4f01d17e53e') in 0.016331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Nature Sound FX/Avalanche/Avalanche (6).wav
+  artifactKey: Guid(22067502107954e44bc9461f6ec90312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Avalanche/Avalanche (6).wav using Guid(22067502107954e44bc9461f6ec90312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd460457b6e46800b46936bfd12c81965') in 0.015925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Nature Sound FX/Beach/Beach (4).wav
+  artifactKey: Guid(940f0244c5ae7a0498fbe59b474dc2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Beach/Beach (4).wav using Guid(940f0244c5ae7a0498fbe59b474dc2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3697912982122da2b4abb45599b5366') in 0.019886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Nature Sound FX/Avalanche/Avalanche (3).wav
+  artifactKey: Guid(5f02922ba0276be4180dc1166b389c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Avalanche/Avalanche (3).wav using Guid(5f02922ba0276be4180dc1166b389c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d21fa665ef33fe0c1b61d18c3879cd2') in 0.017725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Nature Sound FX/Beach/Beach (3).wav
+  artifactKey: Guid(2bb03b1f80f50e04388710ae901ae607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Beach/Beach (3).wav using Guid(2bb03b1f80f50e04388710ae901ae607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6c6e0ea47d58eb53dc14bd14825056') in 0.017181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.684419 seconds.
+  path: Assets/Nature Sound FX/Jungle/Jungle (1).wav
+  artifactKey: Guid(41c30371244903d41809b05d726bd536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Jungle/Jungle (1).wav using Guid(41c30371244903d41809b05d726bd536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d36cca2c4267f8f0afb7a6eff7e545') in 0.011213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Nature Sound FX/Jungle/jungle (9).wav
+  artifactKey: Guid(54e725959bed90c47b601615a5d3aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Jungle/jungle (9).wav using Guid(54e725959bed90c47b601615a5d3aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119762fde95b3ae5f096fe7e5bff943c') in 0.012122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Nature Sound FX/Jungle/Jungle (4).wav
+  artifactKey: Guid(27392ddbb9f7fe8428c09ea2f1c238d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Jungle/Jungle (4).wav using Guid(27392ddbb9f7fe8428c09ea2f1c238d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2575469567b60b8388fcd9908a06e7') in 0.010973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Nature Sound FX/Jungle/Jungle (3) Loop.wav
+  artifactKey: Guid(91b40a88daaebac44a6932c55c375a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Jungle/Jungle (3) Loop.wav using Guid(91b40a88daaebac44a6932c55c375a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09e14fb4881fed12172af33ccd396e1') in 0.013853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Nature Sound FX/Jungle/Jungle (5).wav
+  artifactKey: Guid(d3eef78b2ad3aae40aea818a64d706de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Sound FX/Jungle/Jungle (5).wav using Guid(d3eef78b2ad3aae40aea818a64d706de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ccdf0d2c26f8a8ac029208532204f5') in 0.010011 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.01 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  1.688 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1689ms)
+		BeginReloadAssembly (196ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (1366ms)
+			LoadAssemblies (234ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (710ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (36ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (380ms)
+				ProcessInitializeOnLoadMethodAttributes (122ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 25.38 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 5322 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 111 unused Assets / (1.4 MB). Loaded Objects now: 5905.
+Memory consumption went from 247.4 MB to 246.0 MB.
+Total: 18.227500 ms (FindLiveObjects: 0.903900 ms CreateObjectMapping: 0.573400 ms MarkObjects: 15.738100 ms  DeleteObjects: 1.009700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
